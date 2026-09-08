@@ -53,7 +53,7 @@ Built with:
 - Cookie Chain RPC
 - Cookiescan DAS + Markets API
 
-App: https://cookie-radar-lota.vercel.app
+App: https://yufeng66688.github.io/cookie-radar/
 Code: https://github.com/yufeng66688/cookie-radar
 
 @TheCookieChain 🍪
@@ -63,5 +63,5 @@ Code: https://github.com/yufeng66688/cookie-radar
 Just built Cookie Radar, a live Cookie Chain dashboard + on-chain crumb board.
 Connect Nightly, post a memo, watch it confirm. 🍪
 
-App: https://cookie-radar-lota.vercel.app
+App: https://yufeng66688.github.io/cookie-radar/
 Code: https://github.com/yufeng66688/cookie-radar
