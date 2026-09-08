@@ -1,17 +1,15 @@
 # Cookie Radar — Superteam Earn Submission Pack
 
-Use this file as the final submission checklist. Replace the two placeholder URLs
-after you deploy and publish, then submit to
+Use this file as the final submission checklist. Both live URLs below are filled
+in, then submit to
 [Create an App on Cookie Chain](https://superteam.fun/earn/listing/create-an-app-on-cookie-chain-app).
 
 ## Submission fields
 
 ### Live application URL
 
-TODO after deploy:
-
 ```text
-https://YOUR-DEPLOYED-DOMAIN.example
+https://cookie-radar-lota.vercel.app
 ```
 
 The app can be hosted on Vercel, Netlify, Cloudflare Pages, or any static host.
@@ -19,10 +17,8 @@ Run `npm run build` and point the host at `dist/`.
 
 ### GitHub repository
 
-TODO after publishing:
-
 ```text
-https://github.com/YOUR-USERNAME/cookie-radar
+https://github.com/yufeng66688/cookie-radar
 ```
 
 The repository must be public and include:

@@ -5,8 +5,11 @@ Cookie Radar is a public Cookie Chain cApp built for the
 bounty. It combines a live network dashboard, an on-chain message board, wallet
 asset discovery, and a liquidity radar in one fully client-side application.
 
-> **Try it live:** deploy this repository to Vercel, Netlify, or Cloudflare Pages
-> with the one-command setup below. No private keys are required to run the app.
+> **Try it live:** [cookie-radar-lota.vercel.app](https://cookie-radar-lota.vercel.app)
+>
+> **Source:** [github.com/yufeng66688/cookie-radar](https://github.com/yufeng66688/cookie-radar)
+>
+> No private keys are required to run the app.
 
 ![Cookie Radar desktop preview](docs/screenshot.png)
 
