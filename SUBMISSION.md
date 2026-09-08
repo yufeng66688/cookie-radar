@@ -9,7 +9,7 @@ in, then submit to
 ### Live application URL
 
 ```text
-https://cookie-radar-lota.vercel.app
+https://yufeng66688.github.io/cookie-radar/
 ```
 
 The app can be hosted on Vercel, Netlify, Cloudflare Pages, or any static host.
